@@ -1,0 +1,17 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "great-wall-simatai.arreferenceimage"
+    },
+    {
+      "filename" : "iPad 9.7-inch.arreferenceimage"
+    },
+    {
+      "filename" : "MacBook Pro 15-inch.arreferenceimage"
+    }
+  ]
+}
